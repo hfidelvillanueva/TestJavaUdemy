@@ -10,5 +10,8 @@ package pack.one;
  * @author hfide
  */
 public class MiTest {
-    
+
+    public static void main(String[] args){
+        System.out.print("Hello World");
+    }
 }
